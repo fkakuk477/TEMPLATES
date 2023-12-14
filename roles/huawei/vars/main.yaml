@@ -1,0 +1,14 @@
+---
+huawei: 
+  - hostname: Test1
+    slot: 9
+    card1: 7
+    card2: 8
+    port: 1
+    interface: 25GE0/7/0
+    ifsecondary: 25GE0/7/1
+    desc_trunk: 04083C21-Eth-Trunk31_To_09003A11-Eth-Trunk4083
+    desc_if1: 04083C21-xe0/7/0_To_09003A11-xe6/0/0
+    desc_if2: 04083C21-xe0/7/1_To_09003A11-xe1/0/1 
+    ipaddress: 10.218.97.194 255.255.255.252
+    trunkid: 31 
