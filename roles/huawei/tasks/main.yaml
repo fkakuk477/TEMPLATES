@@ -1,5 +1,0 @@
----
-- name: Generate configuration files 
-  template: src=ethtrunk.j2 dest=./CONFIGS/{{item.hostname}}.txt
-  with_items: "{{ huawei }}"
-   
